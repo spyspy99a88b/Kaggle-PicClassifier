@@ -10,7 +10,7 @@ import keras
 A machine learing pics classifier based on CNN, CNN with dropout and ResNet(residual network). All the models are realized by keras.
 
 # Results
-|  | Accuracy | Val Accuracy |
+|  || Accuracy | Val Accuracy |
 | ----- | ----- |
 | CNN | 0.9980 | 0.6637 |
 | CNN with dropout | 0.8274 | 0.6814|
