@@ -20,4 +20,3 @@ The training data includes 1127 chest xrays drawn from several different sources
 | CNN with dropout | 0.8274 | 0.6814|  
 | ResNet | 1.0 | 0.6372 | 
 
-# Purpose and Notes
