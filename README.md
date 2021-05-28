@@ -14,7 +14,7 @@ The machine learing pics classifier is based on CNN, CNN with dropout and ResNet
 The training data includes 1127 chest xrays drawn from several different sources (of varying size and quality) and a set of multiclass labels indicating whether each patient was healthy or diagnosed with bacterial pneumonia, viral pneumonia, or COVID-19. The test data includes 484 images without labels, for which you will predict a diagnosis.
 
 # Results
-| Models || Accuracy | Val Accuracy |  
+| Models | Accuracy | Val Accuracy |  
 | ----- | ----- | ----- |    
 | CNN | 0.9980 | 0.6637 |  
 | CNN with dropout | 0.8274 | 0.6814|  
